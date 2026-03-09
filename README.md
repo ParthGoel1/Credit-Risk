@@ -77,10 +77,9 @@ credit-risk-classification/
 │   ├── loans.csv
 │   └── bureau.csv
 ├── notebooks/
-│   └── credit_risk_classification.ipynb
+│   └── credit_risk.ipynb
 ├── models/
-│   └── credit_risk_model.joblib
-├── requirements.txt
+│   └── model_data.joblib
 └── README.md
 ```
 
